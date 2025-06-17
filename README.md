@@ -11,5 +11,5 @@ Verifying the mathematical correctness of the approach. <br>
 Serving as an educational reference. <br>
 Providing a foundation for further development.
 # Contact
-For any questions or suggestions, please feel free to contact me at: 2552892578@qq.com
+For any questions or suggestions, please feel free to contact me at: 2552892578@qq.com <br>
 Thank you for your interest!
