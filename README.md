@@ -6,7 +6,7 @@ Hello, I'm Hangming Zhang. This repository provides a simplified implementation 
 (2) Built using PennyLane for quantum circuit simulation. <br>
 (3) Offers a reference implementation not currently available in PennyLane (to the best of my knowledge).
 # Implementation Notes
-While this implementation may differ from practical unitary 2-design applications, it focuses on:
+While this implementation may differ from practical unitary 2-design applications, it focuses on: <br>
 Verifying the mathematical correctness of the approach. <br>
 Serving as an educational reference. <br>
 Providing a foundation for further development.
